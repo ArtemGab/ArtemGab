@@ -62,5 +62,5 @@
 
 ---
 [git]: https://github.com/ArtemGab
-[telegram]: https://t.me/gabidovart
+[telegram]: https://t.me/artemSC
 [whatsapp]: https://wa.me/79180298214
